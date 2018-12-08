@@ -1,0 +1,5 @@
+/home/davidparks21/Qualcomm/snpe-1.21.0/models/inception_v3/data/cropped/plastic_cup.raw
+/home/davidparks21/Qualcomm/snpe-1.21.0/models/inception_v3/data/cropped/notice_sign.raw
+/home/davidparks21/Qualcomm/snpe-1.21.0/models/inception_v3/data/cropped/chairs.raw
+/home/davidparks21/Qualcomm/snpe-1.21.0/models/inception_v3/data/cropped/trash_bin.raw
+/home/davidparks21/Qualcomm/snpe-1.21.0/models/inception_v3/data/cropped/handicap_sign.raw

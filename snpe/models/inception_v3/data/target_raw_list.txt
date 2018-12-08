@@ -1,0 +1,5 @@
+cropped/plastic_cup.raw
+cropped/notice_sign.raw
+cropped/chairs.raw
+cropped/trash_bin.raw
+cropped/handicap_sign.raw

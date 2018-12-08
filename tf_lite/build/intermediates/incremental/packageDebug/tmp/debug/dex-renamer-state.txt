@@ -1,0 +1,4 @@
+#Thu Dec 06 13:07:42 PST 2018
+base.0=/home/davidparks21/Qualcomm/tensorflow/tensorflow/lite/java/demo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
